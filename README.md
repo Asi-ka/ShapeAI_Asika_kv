@@ -1,3 +1,4 @@
+[Asika_kv.ipynb.txt](https://github.com/Asi-ka/ShapeAI_Asika_kv/files/6495921/Asika_kv.ipynb.txt)
 
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
